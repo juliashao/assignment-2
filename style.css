@@ -1,0 +1,12 @@
+/* style.css */
+html {
+	font-family: 'Oswald', sans-serif;
+}
+
+.container {
+	background-color: #b4cdcd;
+	margin-left: 540px;
+	width: 130px;
+	height: 130px;
+}
+
